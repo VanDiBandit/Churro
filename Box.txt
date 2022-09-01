@@ -1,0 +1,13 @@
+cd - changes directory to a specific directory
+touch - creates file
+mkdir- makes new directory
+vi - goes to virtual environment
+cp - copy file
+rm - removes file
+cat - prints file contents
+mv - moves file
+git remote add [alias] [url] - add a git URL as an alias
+git fetch [alias] - fetch down all the branches from that Git remote
+git merge [alias]/[branch] - Transmit local branch commits to remote repository branch
+git push [ alias] [branch] - transmist loacal branch commits to the remote repository branch
+git pull - fetch and merge any commits from the tracking remote branch
